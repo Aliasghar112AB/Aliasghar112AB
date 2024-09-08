@@ -5,4 +5,3 @@
 - 📫 How to reach me: bitwisebrewyt@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a student
-- Youtube : https://www.youtube.com/@BitwiseBrewYT
