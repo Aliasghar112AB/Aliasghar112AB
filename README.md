@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BitwiseBrewYT
+- 👋 Hi, I’m @Aliasghar112AB
 - 👀 I’m interested in the C programming language
 - 🌱 I’m currently learning and collaborating about HTTP request
 - 💞️ I’m looking to collaborate on making apps or creating interesting things with C
-- 📫 How to reach me: bitwisebrewyt@gmail.com
+- 📫 How to reach me: abbasi.aliasghar1386@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a student
