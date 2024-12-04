@@ -4,4 +4,3 @@
 - 💞️ I’m looking to collaborate on making apps or creating interesting things with C
 - 📫 How to reach me: abbasi.aliasghar1386@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a student
