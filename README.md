@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aliasghar112AB
-- 👀 I’m interested in the OS development.
-- 🌱 I’m currently learning and collaborating about HTTP.
-- 💞️ I’m looking to collaborate on making apps or creating interesting things with C.
+- 👀 I’m interested in OS development.
+- 🌱 I’m currently learning and collaborating on Backend development.
+- 💞️ I want to collaborate on making apps or creating interesting things with C.
 - 📫 How to reach me: abbasi.aliasghar1386@gmail.com
 - 😄 Pronouns: he/him
